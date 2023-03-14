@@ -3,6 +3,7 @@ package Conteudo3;
 import java.util.Scanner;
 
 public class c03ex03 {
+  // Calcula Hipotenusa
   public static void main(String[] args) {
     double hipotenusa, cateto1, cateto2;
     Scanner teclado = new Scanner(System.in);

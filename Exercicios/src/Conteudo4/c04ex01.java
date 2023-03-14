@@ -3,6 +3,7 @@ package Conteudo4;
 import java.util.Scanner;
 
 public class c04ex01 {
+    // Formatando informaçoes
     public static void main(String[] args) {
         String firstName, middleName, surName;
         int age;
@@ -16,7 +17,7 @@ public class c04ex01 {
         System.out.print("Digite sua idade: ");
         age = teclado.nextInt();
         System.out.println(surName + ", " + firstName + " " + middleName);
-        System.out.println("idade: "+ age);
+        System.out.println("idade: " + age);
         teclado.close();
     }
 }

@@ -3,9 +3,10 @@ package Conteudo4;
 import java.util.Scanner;
 
 public class c04ex02 {
+    // Ficha Funcional
     public static void main(String[] args) {
         String nome, cpf, identidade, nomeEmpresa;
-        long tituloEleitor, carteiraMotorista; 
+        long tituloEleitor, carteiraMotorista;
         double salario;
         Scanner teclado = new Scanner(System.in);
         System.out.print("Digite o seu nome: ");

@@ -3,12 +3,11 @@ package Conteudo4;
 import java.util.Scanner;
 
 public class c04ex03 {
+    // Quantidade de poluente emitido x Valor de Multa
     public static void main(String[] args) {
         long qntPoluentes1, qntPoluentes2;
         double valor1, valor2, valor3;
         Scanner teclado = new Scanner(System.in);
-
-        // pegando os valores
         System.out.print("Digite a quantidade de poluentes: ");
         qntPoluentes1 = teclado.nextLong();
         System.out.print("Digite o valor da multa para a quantidade dos primeiros poluentes: ");
