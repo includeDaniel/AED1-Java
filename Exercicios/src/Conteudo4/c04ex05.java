@@ -5,6 +5,7 @@ import java.util.Scanner;
 import javax.swing.JOptionPane;
 
 public class c04ex05 {
+    // U
     public static void main(String[] args) {
         Scanner ficha = new Scanner(c04ex05.class.getResourceAsStream("ficha.txt"));
         String nome = ficha.nextLine();

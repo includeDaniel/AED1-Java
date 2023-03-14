@@ -12,6 +12,7 @@ public class c05extra02 {
         double tempoRelativo = tempo
                 * (1 / Math.sqrt(1 - (Math.pow(velocidade, 2) / Math.pow(((3 * Math.pow(10, 8))), 2))));
         System.out.printf("O tempo relativo é: %12.4f", tempoRelativo);
+        System.out.print(" segundos");
         teclado.close();
     }
 }
