@@ -22,6 +22,6 @@ public class c06ex09 {
         } else {
             System.out.println("Reinicie o programa e digite 'M' ou 'F'");
         }
-        ;
+        teclado.close();
     }
 }
