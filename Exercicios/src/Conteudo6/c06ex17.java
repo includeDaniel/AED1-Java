@@ -43,7 +43,7 @@ public class c06ex17 {
                 System.out.print("Está apto(a) a exercer a função de programador na empresa");
             }
         } else {
-            System.out.print("Não Está apto(a) a exercer a função de programador na empresa");
+            System.out.print("\n\nNão Está apto(a) a exercer a função de programador na empresa");
         }
         teclado.close();
     }
