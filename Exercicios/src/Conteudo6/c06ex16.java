@@ -75,9 +75,7 @@ public class c06ex16 {
             diagnostico = "Excelente";
         }
 
-        System.out
-                .print("\n\nA nota final do aluno: " + notaFinal + "\nO diagnóstico dele foi: " + diagnostico + "\n\n");
-
+        System.out.print("\n\nA nota final do aluno: " + notaFinal + "\nO diagnóstico dele foi: " + diagnostico + "\n\n");
         teclado.close();
     }
 }
