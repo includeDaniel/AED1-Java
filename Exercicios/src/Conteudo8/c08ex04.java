@@ -10,7 +10,7 @@ public class c08ex04 {
         for(int i = 1; i <= 3; i++) {
             System.out.print("Digite o nome do aluno: ");
             nome = console.nextLine();
-            System.out.print("Digite a sua idade: ");
+            System.out.print( nome + " digite a sua idade: ");
             idade = console.nextInt();
             if(idade <= 18) {
                 cont1++;
