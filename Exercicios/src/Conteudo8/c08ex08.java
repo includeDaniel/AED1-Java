@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class c08ex08 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
-        int cont1 = 0, cont2 = 0, cont3 = 0, soma = 0;
+        int cont1 = 0, cont3 = 0, soma = 0;
         double media;
         for (int i = 1; i <= 3; i++) {
             System.out.print("\nDigite a nota final do aluno " + i + ": ");
