@@ -1,0 +1,392 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CalcFatorial",
+            "request": "launch",
+            "mainClass": "Conteudo3.CalcFatorial",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalcHipotenusa",
+            "request": "launch",
+            "mainClass": "Conteudo3.CalcHipotenusa",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalcMedia",
+            "request": "launch",
+            "mainClass": "Conteudo3.CalcMedia",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "TesteIdade",
+            "request": "launch",
+            "mainClass": "Conteudo3.TesteIdade",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "FichaFuncional",
+            "request": "launch",
+            "mainClass": "Conteudo4.FichaFuncional",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "FichaFuncionalTxt",
+            "request": "launch",
+            "mainClass": "Conteudo4.FichaFuncionalTxt",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "FormatandoInfo",
+            "request": "launch",
+            "mainClass": "Conteudo4.FormatandoInfo",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "FormatandoInfoJO",
+            "request": "launch",
+            "mainClass": "Conteudo4.FormatandoInfoJO",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "PoluenteXMulta",
+            "request": "launch",
+            "mainClass": "Conteudo4.PoluenteXMulta",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalcAreaVolEsferico",
+            "request": "launch",
+            "mainClass": "Conteudo5.CalcAreaVolEsferico",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalcRaio",
+            "request": "launch",
+            "mainClass": "Conteudo5.CalcRaio",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalculaDistEntrePontos",
+            "request": "launch",
+            "mainClass": "Conteudo5.CalculaDistEntrePontos",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CelsiusConvert",
+            "request": "launch",
+            "mainClass": "Conteudo5.CelsiusConvert",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "DistPontoReta",
+            "request": "launch",
+            "mainClass": "Conteudo5.DistPontoReta",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "Equacao",
+            "request": "launch",
+            "mainClass": "Conteudo5.Equacao",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "FormataCheque",
+            "request": "launch",
+            "mainClass": "Conteudo5.FormataCheque",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "FormataDigitos",
+            "request": "launch",
+            "mainClass": "Conteudo5.FormataDigitos",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "FormataHoras",
+            "request": "launch",
+            "mainClass": "Conteudo5.FormataHoras",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "ImpostoDeRenda",
+            "request": "launch",
+            "mainClass": "Conteudo5.ImpostoDeRenda",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "MediaPonderada",
+            "request": "launch",
+            "mainClass": "Conteudo5.MediaPonderada",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "Palíndromo",
+            "request": "launch",
+            "mainClass": "Conteudo5.Palíndromo",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "TempoPorVelocidade",
+            "request": "launch",
+            "mainClass": "Conteudo5.TempoPorVelocidade",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "ValorX",
+            "request": "launch",
+            "mainClass": "Conteudo5.ValorX",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalcCusto",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalcCusto",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalcCustoTotal",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalcCustoTotal",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalcPlLiquido",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalcPlLiquido",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalcPontosVolei",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalcPontosVolei",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalcSalario",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalcSalario",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalcValorResgatado",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalcValorResgatado",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalculaNota",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalculaNota",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "Divisao5e7",
+            "request": "launch",
+            "mainClass": "Conteudo6.Divisao5e7",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "Equacao(1)",
+            "request": "launch",
+            "mainClass": "Conteudo6.Equacao",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "Equaco2grau",
+            "request": "launch",
+            "mainClass": "Conteudo6.Equaco2grau",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "FormataHorasMinutos",
+            "request": "launch",
+            "mainClass": "Conteudo6.FormataHorasMinutos",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "IMC",
+            "request": "launch",
+            "mainClass": "Conteudo6.IMC",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "ImprimeNumerosAoContrario",
+            "request": "launch",
+            "mainClass": "Conteudo6.ImprimeNumerosAoContrario",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "MultaPoluentes",
+            "request": "launch",
+            "mainClass": "Conteudo6.MultaPoluentes",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "PesoMinMax",
+            "request": "launch",
+            "mainClass": "Conteudo6.PesoMinMax",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "PesoMinMaxParaGenero",
+            "request": "launch",
+            "mainClass": "Conteudo6.PesoMinMaxParaGenero",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "QuizEmprego",
+            "request": "launch",
+            "mainClass": "Conteudo6.QuizEmprego",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalcConceitoNota",
+            "request": "launch",
+            "mainClass": "Conteudo7.CalcConceitoNota",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "CalcMulta",
+            "request": "launch",
+            "mainClass": "Conteudo7.CalcMulta",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "QuantoGanhouComBaseEmAcertos",
+            "request": "launch",
+            "mainClass": "Conteudo7.QuantoGanhouComBaseEmAcertos",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "TimeDeQualEstado",
+            "request": "launch",
+            "mainClass": "Conteudo7.TimeDeQualEstado",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "questaoA",
+            "request": "launch",
+            "mainClass": "Conteudo7.questaoA",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "questaoB",
+            "request": "launch",
+            "mainClass": "Conteudo7.questaoB",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "questaoC",
+            "request": "launch",
+            "mainClass": "Conteudo7.questaoC",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "c08ex01",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex01",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "c08ex02",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex02",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "c08ex03",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex03",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "c08ex04",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex04",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "c08ex05",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex05",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "c08ex10",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex10",
+            "projectName": "Exercicios_87188438"
+        },
+        {
+            "type": "java",
+            "name": "FirstProgram",
+            "request": "launch",
+            "mainClass": "FirstProgram",
+            "projectName": "Exercicios_87188438"
+        }
+    ]
+}

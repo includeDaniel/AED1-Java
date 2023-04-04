@@ -7,7 +7,7 @@ public class c08ex08 {
         Scanner console = new Scanner(System.in);
         int cont1 = 0, cont3 = 0, soma = 0;
         double media;
-        for (int i = 1; i <= 3; i++) {
+        for (int i = 1; i <= 100; i++) {
             System.out.print("\nDigite a nota final do aluno " + i + ": ");
             Double n1 = console.nextDouble();
             if (n1 <= -1) {
