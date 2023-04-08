@@ -7,7 +7,7 @@ public class c08ex11 {
                 String nome, maiorSalarioNome = "", idade, salario;
 
                 int sexo, estadoCivil, corDosOlhos, corDosCabelos, escolaridade, contador1 = 0, maiorSalario = 0,
-                                menorSalario = 0, menorSalarioH = 0, maiorSalarioH = 0;
+                                menorSalarioH = 0, maiorSalarioH = 0;
                 double difSalario;
 
                 String[] opSexo = { "M", "F" };
