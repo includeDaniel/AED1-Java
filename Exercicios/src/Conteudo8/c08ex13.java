@@ -53,7 +53,6 @@ public class c08ex13 {
                 menorPopulacao = populacaoNum;
                 menorPopulacaoCidade = cidade;
             }
-
         }
         System.out.println("\n\nQuantidade cidades com mais de um milhão: " + contador1);
         System.out.println("Quantidade de cidades com mais mulheres e homens " + contador2);
