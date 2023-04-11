@@ -28,9 +28,7 @@ public class c08ex10 {
                 maiorCustoParcial = custoParcial;
                 maiorNome = nome;
             }
-
         }
-
         System.out.print("Custo total: " + totalValorCusto);
         System.out.print("\nMédia dos Custos Parciais: " + totalValorCusto / insumos);
         System.out.println("\nNome do insumo de maior custo parcial: " + maiorNome);
