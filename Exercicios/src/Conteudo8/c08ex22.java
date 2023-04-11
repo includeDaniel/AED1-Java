@@ -2,7 +2,7 @@ package Conteudo8;
 
 import java.util.Scanner;
 
-public class c8ex22 {
+public class c08ex22 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         int n, cont = 0;
