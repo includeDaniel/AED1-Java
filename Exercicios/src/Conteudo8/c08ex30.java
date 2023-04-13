@@ -16,5 +16,6 @@ public class c08ex30 {
             soma += s;
         }
         System.out.println(soma);
+        console.close();
     }
 }
