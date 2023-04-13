@@ -19,5 +19,6 @@ public class c08ex22 {
         } else {
             System.out.println("Número não é primo");
         }
+        console.close();
     }
 }
