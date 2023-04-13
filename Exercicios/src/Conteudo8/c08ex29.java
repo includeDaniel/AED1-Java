@@ -14,7 +14,7 @@ public class c08ex29 {
         for (int i = 1; i <= y; i++) {
             resposta *= x;
         }
-        System.out.println("X elevado a Y é igual a: " + resposta);
+        System.out.println(x + " elevado a " + y + " é igual a: " + resposta);
 
         console.close();
     }
