@@ -49,7 +49,7 @@ public class c08ex31 {
             }
 
             if (salario < salarioMin) {
-                System.out.println("ABAIXO DO SALÁRIO MINÍMO");
+                System.out.println("ABAIXO DO SALÁRIO MINÍMO \n");
             } else if (codigo.equalsIgnoreCase("X")) {
 
             } else {
@@ -65,7 +65,7 @@ public class c08ex31 {
         }
         media = somaSalario / contAd;
         System.out.println("A quantidade de engenheiros com salário acima do mínimo: " + cont);
-        System.out.println("A média do salário dos Engenheiros Administradores é: " + media);
+        System.out.printf("A média do salário dos Engenheiros Administradores é: %.2f", media);
         System.out.println("A quantidade e engenheiros do cargo 'Outros' acima de R$5.000,00: " + contOut);
         System.out.println("O menor salário é " + salarioMinTotal + " de " + nomeSalarioMin + " quem tem o cargo '"
                 + cargoSalarioMin + "'");
