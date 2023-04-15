@@ -18,5 +18,6 @@ public class c09ex09 {
         }
         serie = 100 - Math.pow(serie, 3);
         System.out.println(serie);
+        console.close();
     }
 }
