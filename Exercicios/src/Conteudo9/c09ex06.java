@@ -1,16 +1,18 @@
-public class serieModel {
+package Conteudo9;
+
+public class c09ex06 {
     public static void main(String[] args) {
         double num, den, serie = 0;
 
-        for (int i = 1; i <= 1; i++) {
+        for (int i = 1; i <= 20; i++) {
 
-            num = 1;
+            num = i;
 
-            den = 1;
+            den = Math.sqrt(i * 2);
 
             serie += num / den;
         }
-
+        serie = 10 + serie;
         System.out.print(serie);
     }
 }

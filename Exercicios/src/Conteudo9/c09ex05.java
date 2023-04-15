@@ -2,7 +2,7 @@ package Conteudo9;
 
 import java.util.Scanner;
 
-public class c09ex04 {
+public class c09ex05 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         double num = 0, den = 0, serie = 0;
@@ -10,12 +10,11 @@ public class c09ex04 {
         System.out.print("Digite a quantidade de termos: ");
         rep = console.nextInt();
         for (int i = 1; i <= rep; i++) {
-            num = (i * 4 - 3) * (i * 4 - 2);
-            den = (i * 4 - 1) * (i * 4);
+            num = (i - 1) * 2 + (i * 3);
+            den = i * 6 + 1;
             serie += num / den;
         }
-        serie = Math.sqrt(serie);
-
+        serie = 5 * serie;
         System.out.print(serie);
         console.close();
     }
