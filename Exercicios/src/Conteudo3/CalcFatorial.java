@@ -8,7 +8,7 @@ public class CalcFatorial {
         Scanner teclado = new Scanner(System.in);
         System.out.print("Informe um número: ");
         long numero = teclado.nextLong();
-        long fatorial = 1L;
+        long fatorial = 1;
         for (long contador = 2; contador <= numero; contador++) {
             fatorial = fatorial * contador;
         }
