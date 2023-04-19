@@ -16,7 +16,7 @@ public class c09ex12 {
                 serie += num / den;
             }
 
-        }
+        } 
         serie = 4 * serie;
         System.out.print(serie);
     }
