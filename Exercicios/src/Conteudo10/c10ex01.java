@@ -18,7 +18,9 @@ public class c10ex01 {
             }
 
         } while (valorDigitado != -1);
+        console.close();
         media = soma / cont;
         System.out.printf("\nA média das multas: %.2f" + media );
     }
+    
 }
