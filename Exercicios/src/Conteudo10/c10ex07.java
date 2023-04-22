@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class c10ex07 {
     public static void main(String[] args) {
-        double populacao, infectados = 1, populacaoinfectada = 0, anosDecimal, divisao = 0, anosConta = 0,
+        double populacao, infectados = 1, anosConta = 0,
                 mesesConta = 0,
                 diasConta;
         int contDia = 0;
