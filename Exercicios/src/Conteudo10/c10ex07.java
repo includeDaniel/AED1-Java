@@ -22,7 +22,7 @@ public class c10ex07 {
         diasConta = contDia - (anosConta * 365) - (meses * 30);
         int dias = (int) diasConta;
         int anos = (int) anosConta;
-
+        
         System.out.println("Demorará " + anos + " anos " + meses + " meses e " + dias
                 + " dias para todas as pessoas serem infectadas");
         console.close();
