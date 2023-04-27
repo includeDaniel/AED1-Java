@@ -2,14 +2,14 @@ package Conteudo11;
 
 import java.util.Scanner;
 
-public class c11ex04 {
+public class c11ex04a {
     public static void main(String[] args) {
         String nome, sexo, nomeMaior = " ";
         int idade, pontosPerdidos, idadeTotal = 0, mulheresPontos = 0, idadeMaior = 0;
         double media = 0, multa = 0, multaTotal = 0, contHomens = 0, percentHomensMultados = 0;
         Scanner console = new Scanner(System.in);
 
-        for (int i = 1; i <= 3; i++) {
+        for (int i = 1; i <= 230; i++) {
             System.out.println();
             System.out.print("Digite o nome: ");
             nome = console.nextLine();
@@ -27,7 +27,7 @@ public class c11ex04 {
             if (sexo.equalsIgnoreCase("M")) {
                 contHomens++;
             }
-            percentHomensMultados = (contHomens * 100) / 3.0;
+            percentHomensMultados = (contHomens * 100) / 230.0;
 
             if (sexo.equalsIgnoreCase("F") && pontosPerdidos == 7) {
                 mulheresPontos++;
@@ -39,7 +39,7 @@ public class c11ex04 {
             multaTotal += multa;
             idadeTotal += idade;
         }
-        media = idadeTotal / 3;
+        media = idadeTotal / 230;
         System.out.println();
         System.out.println("A média das idades é: " + media);
         System.out.println("Valor total das multas é: " + multaTotal);
