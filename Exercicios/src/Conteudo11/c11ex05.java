@@ -39,7 +39,7 @@ public class c11ex05 {
             if (codigo == 3) {
                 totalMensalidadeEspanhol += valorMensalidade;
             }
-
+            console.close();
             valorMensalidadeTotal += valorMensalidade;
             rep++;
 
@@ -52,6 +52,7 @@ public class c11ex05 {
             System.out.print("Digite o nome do aluno: ");
             aluno = console.nextLine();
             System.out.println();
+
         }
         System.out.println("A quanitdade de alunos matriculados em inglês é: " + cont);
         System.out.println("A mensalidade média: " + media);
