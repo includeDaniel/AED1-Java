@@ -15,5 +15,6 @@ public class c11ex10 {
             }
             System.out.println(" ");
         }
+        console.close();
     }
 }
