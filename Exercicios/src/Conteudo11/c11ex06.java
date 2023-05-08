@@ -15,7 +15,7 @@ public class c11ex06 {
             canal = console.nextInt();
             System.out.print("Digite o número de pessoas que estão assistindo: ");
             numPessoas = console.nextInt();
-
+            System.out.println(cont + cont2 + cont3);
             switch (canal) {
                 case 4 -> {
                     cont++;

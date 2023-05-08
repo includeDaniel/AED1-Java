@@ -24,6 +24,6 @@ public class c11ex14 {
 
         } while (pi != 0);
 
-        System.out.println(cont);
+        System.out.print(cont);
     }
 }

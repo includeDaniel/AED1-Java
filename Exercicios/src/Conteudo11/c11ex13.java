@@ -18,10 +18,10 @@ public class c11ex13 {
 
             serie += num / den;
 
-            System.out.println(cont);
+        } while (cont <= rep);
 
-        } while (cont != rep);
         result = 71 + (Math.cbrt(serie));
         System.out.println(result);
+        console.close();
     }
 }
