@@ -61,7 +61,7 @@ public class c11ex08 {
                 "Trabalhador a receber o maior salário é: " + maiorTrabalhador + " e tem a função de: " + funcaoMaior);
         System.out.println("até 100 " + cont2);
         System.out.println("acima de 100 até 500 " + cont3);
-        System.out.println("acima de 500 " + cont3);
+        System.out.println("acima de 500 " + cont4);
         System.out.println("O valor total da folha de pagamento é: " + pagamentoTotal);
         console.close();
     }
