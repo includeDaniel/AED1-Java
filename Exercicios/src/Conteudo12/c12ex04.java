@@ -12,7 +12,7 @@ public class c12ex04 {
             n[i] = console.nextInt();
         }
         System.out.println();
-        for (int j = 0; j <= 10; j++) {
+        for (int j = 0; j <= 9 ; j++) {
             lugar = j + 1;
             System.out.println("largada " + lugar + " será " + n[j] + " com " + n[j + 10]);
         }
