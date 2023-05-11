@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class c12ex07 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
-        String names[] = new String[5], conceito;
-        double nota[] = new double[5];
+        String names[] = new String[50], conceito;
+        double nota[] = new double[50];
         for (int i = 0; i < names.length; i++) {
             System.out.print("Digite o nome do aluno: ");
             names[i] = console.nextLine();
