@@ -11,6 +11,7 @@ public class c12ex09 {
             n[i] = console.nextInt();
             soma += n[i];
         }
+        console.close();
         for (int i = 0; i < n.length; i++) {
             if (soma % n[i] == 0) {
                 System.out.print(n[i] + " ");
