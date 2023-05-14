@@ -12,6 +12,7 @@ public class c12ex16 {
             System.out.print("Digite um número inteiro: ");
             n[i] = console.nextInt();
         }
+        console.close();
         System.out.print("Digite um número real: ");
         multiplicador = console.nextDouble();
 
