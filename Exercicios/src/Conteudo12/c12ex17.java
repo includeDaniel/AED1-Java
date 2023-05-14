@@ -1,7 +1,5 @@
 package Conteudo12;
 
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.Scanner;
 
 public class c12ex17 {
