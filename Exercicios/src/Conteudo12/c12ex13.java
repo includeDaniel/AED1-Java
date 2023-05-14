@@ -10,6 +10,7 @@ public class c12ex13 {
             System.out.print("Digite os meses 1 por 1: ");
             meses[i] = console.nextLine();
         }
+        console.close();
         for (int i = 0; i < meses.length - 1; i++) {
             for (int j = 0; j < meses.length - 1; j++) {
                 if (meses[j].compareToIgnoreCase(meses[j + 1]) > 0) {
@@ -19,8 +20,8 @@ public class c12ex13 {
                 }
 
             }
-        }
 
+        }
         for (int i = 0; i < meses.length; i++) {
             System.out.println(meses[i]);
         }
