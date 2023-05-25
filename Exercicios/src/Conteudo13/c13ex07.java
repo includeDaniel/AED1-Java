@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class c13ex07 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
-        String nomeFamilia, nome;
+        String nome;
 
         System.out.print("Digite seu nome completo: ");
         nome = console.nextLine();
