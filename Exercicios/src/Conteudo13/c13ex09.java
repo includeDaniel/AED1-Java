@@ -10,14 +10,10 @@ public class c13ex09 {
         System.out.println("Digite um nome completo: ");
         f = console.nextLine();
 
-        String[] array = f.split(" ", f.split(" ").length);
+        String[] array = f.split("");
 
         for (int i = 0; i < array.length; i++) {
-            String[] array2 = array[i].split("");
-            for (int j = 0; j < array2.length; j++) {
-                System.out.println(array2[j].toUpperCase());
-            }
-            System.out.println(" ");
+            System.out.println(array[i].toUpperCase());
         }
 
         console.close();
