@@ -2,7 +2,7 @@ package Conteudo13;
 
 import java.util.Scanner;
 
-public class c13ex09 {
+public class c13ex10 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         String f;
