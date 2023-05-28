@@ -1,7 +1,6 @@
 package Conteudo14.ProjetoAED1;
 
 import java.util.Scanner;
-import javax.swing.JOptionPane;
 
 public class Menu1 {
     public static Scanner console = new Scanner(System.in);
