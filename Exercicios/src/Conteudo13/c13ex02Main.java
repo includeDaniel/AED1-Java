@@ -1,7 +1,6 @@
 package Conteudo13;
 
 import java.util.Scanner;
-import Conteudo13.c13ex02Method;
 
 public class c13ex02Main {
     public static void main(String[] args) {
