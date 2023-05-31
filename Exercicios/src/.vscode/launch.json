@@ -1,0 +1,1212 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "c10ex01",
+            "request": "launch",
+            "mainClass": "Conteudo10.c10ex01",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c10ex02",
+            "request": "launch",
+            "mainClass": "Conteudo10.c10ex02",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c10ex03",
+            "request": "launch",
+            "mainClass": "Conteudo10.c10ex03",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c10ex04",
+            "request": "launch",
+            "mainClass": "Conteudo10.c10ex04",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c10ex05",
+            "request": "launch",
+            "mainClass": "Conteudo10.c10ex05",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c10ex06",
+            "request": "launch",
+            "mainClass": "Conteudo10.c10ex06",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c10ex07",
+            "request": "launch",
+            "mainClass": "Conteudo10.c10ex07",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c10ex08",
+            "request": "launch",
+            "mainClass": "Conteudo10.c10ex08",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "D21498A",
+            "request": "launch",
+            "mainClass": "Conteudo11.D21498A",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "D21498B",
+            "request": "launch",
+            "mainClass": "Conteudo11.D21498B",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "D21498C",
+            "request": "launch",
+            "mainClass": "Conteudo11.D21498C",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex01",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex01",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex02a",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex02a",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex02b",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex02b",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex03",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex03",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex04a",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex04a",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex04b",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex04b",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex05",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex05",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex06",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex06",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex07",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex07",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex08",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex08",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex09",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex09",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex10",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex10",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex11",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex11",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex12",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex12",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex13",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex13",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex14",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex14",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c11ex2c",
+            "request": "launch",
+            "mainClass": "Conteudo11.c11ex2c",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex01",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex01",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex02",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex02",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex03",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex03",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex04",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex04",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex06",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex06",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex07",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex07",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex08",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex08",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex09",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex09",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex10",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex10",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex11",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex11",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex12",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex12",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex13",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex13",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex14",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex14",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex15",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex15",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex16",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex16",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex17",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex17",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex18",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex18",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex19",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex19",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex20",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex20",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex22",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex22",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex23",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex23",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex24",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex24",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex25",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex25",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex26",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex26",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex27",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex27",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c12ex28",
+            "request": "launch",
+            "mainClass": "Conteudo12.c12ex28",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c13ex01",
+            "request": "launch",
+            "mainClass": "Conteudo13.c13ex01",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c13ex01Extra",
+            "request": "launch",
+            "mainClass": "Conteudo13.c13ex01Extra",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c13ex02Main",
+            "request": "launch",
+            "mainClass": "Conteudo13.c13ex02Main",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c13ex03",
+            "request": "launch",
+            "mainClass": "Conteudo13.c13ex03",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c13ex04",
+            "request": "launch",
+            "mainClass": "Conteudo13.c13ex04",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c13ex05",
+            "request": "launch",
+            "mainClass": "Conteudo13.c13ex05",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c13ex06",
+            "request": "launch",
+            "mainClass": "Conteudo13.c13ex06",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c13ex07",
+            "request": "launch",
+            "mainClass": "Conteudo13.c13ex07",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c13ex08",
+            "request": "launch",
+            "mainClass": "Conteudo13.c13ex08",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c13ex09",
+            "request": "launch",
+            "mainClass": "Conteudo13.c13ex09",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c13ex10",
+            "request": "launch",
+            "mainClass": "Conteudo13.c13ex10",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "Menu1",
+            "request": "launch",
+            "mainClass": "Conteudo14.ProjetoAED1.Menu1",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c14ex02Main",
+            "request": "launch",
+            "mainClass": "Conteudo14.c14ex02Main",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalcFatorial",
+            "request": "launch",
+            "mainClass": "Conteudo3.CalcFatorial",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalcHipotenusa",
+            "request": "launch",
+            "mainClass": "Conteudo3.CalcHipotenusa",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalcMedia",
+            "request": "launch",
+            "mainClass": "Conteudo3.CalcMedia",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "TesteIdade",
+            "request": "launch",
+            "mainClass": "Conteudo3.TesteIdade",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "FichaFuncional",
+            "request": "launch",
+            "mainClass": "Conteudo4.FichaFuncional",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "FichaFuncionalTxt",
+            "request": "launch",
+            "mainClass": "Conteudo4.FichaFuncionalTxt",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "FormatandoInfo",
+            "request": "launch",
+            "mainClass": "Conteudo4.FormatandoInfo",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "FormatandoInfoJO",
+            "request": "launch",
+            "mainClass": "Conteudo4.FormatandoInfoJO",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "PoluenteXMulta",
+            "request": "launch",
+            "mainClass": "Conteudo4.PoluenteXMulta",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalcAreaVolEsferico",
+            "request": "launch",
+            "mainClass": "Conteudo5.CalcAreaVolEsferico",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalcRaio",
+            "request": "launch",
+            "mainClass": "Conteudo5.CalcRaio",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalculaDistEntrePontos",
+            "request": "launch",
+            "mainClass": "Conteudo5.CalculaDistEntrePontos",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CelsiusConvert",
+            "request": "launch",
+            "mainClass": "Conteudo5.CelsiusConvert",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "DistPontoReta",
+            "request": "launch",
+            "mainClass": "Conteudo5.DistPontoReta",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "Equacao",
+            "request": "launch",
+            "mainClass": "Conteudo5.Equacao",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "FormataCheque",
+            "request": "launch",
+            "mainClass": "Conteudo5.FormataCheque",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "FormataDigitos",
+            "request": "launch",
+            "mainClass": "Conteudo5.FormataDigitos",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "FormataHoras",
+            "request": "launch",
+            "mainClass": "Conteudo5.FormataHoras",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "ImpostoDeRenda",
+            "request": "launch",
+            "mainClass": "Conteudo5.ImpostoDeRenda",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "MediaPonderada",
+            "request": "launch",
+            "mainClass": "Conteudo5.MediaPonderada",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "Palíndromo",
+            "request": "launch",
+            "mainClass": "Conteudo5.Palíndromo",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "TempoPorVelocidade",
+            "request": "launch",
+            "mainClass": "Conteudo5.TempoPorVelocidade",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "ValorX",
+            "request": "launch",
+            "mainClass": "Conteudo5.ValorX",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalcCusto",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalcCusto",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalcCustoTotal",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalcCustoTotal",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalcPlLiquido",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalcPlLiquido",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalcPontosVolei",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalcPontosVolei",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalcSalario",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalcSalario",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalcValorResgatado",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalcValorResgatado",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalculaNota",
+            "request": "launch",
+            "mainClass": "Conteudo6.CalculaNota",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "Divisao5e7",
+            "request": "launch",
+            "mainClass": "Conteudo6.Divisao5e7",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "Equacao(1)",
+            "request": "launch",
+            "mainClass": "Conteudo6.Equacao",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "Equaco2grau",
+            "request": "launch",
+            "mainClass": "Conteudo6.Equaco2grau",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "FormataHorasMinutos",
+            "request": "launch",
+            "mainClass": "Conteudo6.FormataHorasMinutos",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "IMC",
+            "request": "launch",
+            "mainClass": "Conteudo6.IMC",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "ImprimeNumerosAoContrario",
+            "request": "launch",
+            "mainClass": "Conteudo6.ImprimeNumerosAoContrario",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "MultaPoluentes",
+            "request": "launch",
+            "mainClass": "Conteudo6.MultaPoluentes",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "PesoMinMax",
+            "request": "launch",
+            "mainClass": "Conteudo6.PesoMinMax",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "PesoMinMaxParaGenero",
+            "request": "launch",
+            "mainClass": "Conteudo6.PesoMinMaxParaGenero",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "QuizEmprego",
+            "request": "launch",
+            "mainClass": "Conteudo6.QuizEmprego",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalcConceitoNota",
+            "request": "launch",
+            "mainClass": "Conteudo7.CalcConceitoNota",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "CalcMulta",
+            "request": "launch",
+            "mainClass": "Conteudo7.CalcMulta",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "QuantoGanhouComBaseEmAcertos",
+            "request": "launch",
+            "mainClass": "Conteudo7.QuantoGanhouComBaseEmAcertos",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "TimeDeQualEstado",
+            "request": "launch",
+            "mainClass": "Conteudo7.TimeDeQualEstado",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "questaoA",
+            "request": "launch",
+            "mainClass": "Conteudo7.questaoA",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "questaoB",
+            "request": "launch",
+            "mainClass": "Conteudo7.questaoB",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "questaoC",
+            "request": "launch",
+            "mainClass": "Conteudo7.questaoC",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex01",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex01",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex02",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex02",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex03",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex03",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex04",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex04",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex05",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex05",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex05a",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex05a",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex06",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex06",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex07",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex07",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex08",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex08",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex09",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex09",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex10",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex10",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex11",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex11",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex12",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex12",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex13",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex13",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex14",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex14",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex15",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex15",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex16",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex16",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex17",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex17",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex18",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex18",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex19",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex19",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex20",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex20",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex21",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex21",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex22",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex22",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex23",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex23",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex24",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex24",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex25",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex25",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex26",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex26",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex27",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex27",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex28",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex28",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex29",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex29",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex30",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex30",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c08ex31",
+            "request": "launch",
+            "mainClass": "Conteudo8.c08ex31",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex01",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex01",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex02",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex02",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex03",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex03",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex04",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex04",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex05",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex05",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex06",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex06",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex07",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex07",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex08",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex08",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex09",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex09",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex10A",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex10A",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex10B",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex10B",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex10C",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex10C",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex10D",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex10D",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex10E",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex10E",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex10F",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex10F",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex11A",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex11A",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex11B",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex11B",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex11C",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex11C",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex11D",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex11D",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex11E",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex11E",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex11F",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex11F",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex12",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex12",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "c09ex13",
+            "request": "launch",
+            "mainClass": "Conteudo9.c09ex13",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "serieModel",
+            "request": "launch",
+            "mainClass": "serieModel",
+            "projectName": "src_8262c38d"
+        },
+        {
+            "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "src_8262c38d"
+        }
+    ]
+}
