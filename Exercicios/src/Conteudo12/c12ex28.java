@@ -22,14 +22,14 @@ public class c12ex28 {
 
         for (int i = 0; i < RA.size() - 1; i++) {
             for (int j = 0; j < nome.size() - 1; j++) {
-                if (nome.get(i).compareToIgnoreCase(nome.get(i + 1)) > 0) {
-                    nomeTemp = nome.get(i);
-                    nome.set(i, nome.get(i + 1));
-                    nome.set(i + 1, nomeTemp);
+                if (nome.get(j).compareToIgnoreCase(nome.get(j + 1)) > 0) {
+                    nomeTemp = nome.get(j);
+                    nome.set(j, nome.get(j + 1));
+                    nome.set(j + 1, nomeTemp);
 
-                    raTemp = RA.get(i);
-                    RA.set(i, RA.get(i + 1));
-                    RA.set(i + 1, raTemp);
+                    raTemp = RA.get(j);
+                    RA.set(j, RA.get(j + 1));
+                    RA.set(j + 1, raTemp);
                 }
             }
         }

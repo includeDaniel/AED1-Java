@@ -4,10 +4,6 @@ import java.util.Scanner;
 
 public class c13ex01Extra {
     public static void main(String[] args) {
-        Imprime();
-    }
-
-    public static void Imprime() {
         Scanner console = new Scanner(System.in);
         double salario, imposto;
         int dependentes;
