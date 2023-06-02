@@ -16,4 +16,14 @@ public class Character {
         System.out.println("HP: " + this.HP);
         System.out.println("Energy: " + this.energy);
     }
+
+    public void setCharacter(String newName, double newHP, double newEnergy) {
+        this.name = newName;
+        this.HP = newHP;
+        this.energy = newEnergy;
+    }
+
+    public void removeCharacter() {
+
+    }
 }
