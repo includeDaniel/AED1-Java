@@ -26,7 +26,7 @@ public class c13ex03Extra {
                 System.out.print("Digite o numero de dependentes do funcionário: ");
                 dependentes = console.nextInt();
                 console.nextLine();
-                salariosList.add(c13ex01Extra.CalculaImposto(salario, dependentes));
+                salariosList.add(c13ex02Extra.CalculaImposto(salario, dependentes));
 
             }
         } while (!nomeTemp.equalsIgnoreCase("Pare"));

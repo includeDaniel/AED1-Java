@@ -2,7 +2,7 @@ package Conteudo13;
 
 import java.util.Scanner;
 
-public class c13ex01Extra {
+public class c13ex02Extra {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         double salario, imposto;
