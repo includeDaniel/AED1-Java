@@ -3,27 +3,46 @@ package Conteudo15;
 public class Character {
     private String name;
     private double HP;
-    private double energy;
+    private double attack;
+    private double defense;
 
-    public Character(String name, double HP, double energy) {
+    public Character(String name, double HP, double attack, double defense) {
         this.name = name;
         this.HP = HP;
-        this.energy = energy;
+        this.attack = attack;
+        this.defense = defense;
     }
 
-    public void getCharacter() {
-        System.out.println("Nome: " + this.name);
-        System.out.println("HP: " + this.HP);
-        System.out.println("Energy: " + this.energy);
+    public String getNome() {
+        return this.name;
     }
 
-    public void setCharacter(String newName, double newHP, double newEnergy) {
+    public double getHp() {
+        return this.HP;
+
+    }
+
+    public double getAttack() {
+        return this.attack;
+
+    }
+
+    public double getDefense() {
+        return this.defense;
+    }
+
+    public void Rest() {
+        this.HP = this.HP + 200;
+    }
+
+    public void SwordsDance() {
+        this.attack = this.attack + 1000;
+    }
+
+    public void setCharacter(String newName, double newHP, double attack, double defense) {
         this.name = newName;
         this.HP = newHP;
-        this.energy = newEnergy;
-    }
-
-    public void removeCharacter() {
-
+        this.attack = attack;
+        this.defense = defense;
     }
 }
