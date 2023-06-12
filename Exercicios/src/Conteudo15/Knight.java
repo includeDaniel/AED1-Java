@@ -10,12 +10,12 @@ public class Knight extends Character {
         this.sword = sword;
     }
 
-    public void getEnergy() {
-        System.out.println(this.energy);
+    public double getEnergy() {
+        return this.energy;
     }
 
-    public void getSword() {
-        System.out.println(this.sword);
+    public double getSword() {
+        return this.sword;
     }
 
     public void setAtributes(double newEnergy, double newSword) {

@@ -10,12 +10,12 @@ public class Mage extends Character {
         this.staff = staff;
     }
 
-    public void getMana() {
-        System.out.println(this.mana);
+    public double getMana() {
+        return this.mana;
     }
 
-    public void getStaff() {
-        System.out.println(this.staff);
+    public double getStaff() {
+        return this.staff;
     }
 
     public void setAtributes(double newMana, double newStaff) {
