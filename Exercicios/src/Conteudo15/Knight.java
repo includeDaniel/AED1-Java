@@ -17,4 +17,9 @@ public class Knight extends Character {
     public void getSword() {
         System.out.println(this.sword);
     }
+
+    public void setAtributes(double newEnergy, double newSword) {
+        this.energy = newEnergy;
+        this.sword = newSword;
+    }
 }

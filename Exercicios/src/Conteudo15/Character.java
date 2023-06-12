@@ -13,7 +13,7 @@ public class Character {
         this.defense = defense;
     }
 
-    public String getNome() {
+    public String getName() {
         return this.name;
     }
 

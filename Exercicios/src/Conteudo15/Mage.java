@@ -17,4 +17,9 @@ public class Mage extends Character {
     public void getStaff() {
         System.out.println(this.staff);
     }
+
+    public void setAtributes(double newMana, double newStaff) {
+        this.mana = newMana;
+        this.staff = newStaff;
+    }
 }
