@@ -48,6 +48,9 @@ public class D21498 {
                     case 5 -> {
                         ListagemDeBens();
                     }
+                    case 0 -> {
+                        System.out.println("FIM DO PROGRAMA");
+                    }
                 }
             }
         } while (opcao != 0);
