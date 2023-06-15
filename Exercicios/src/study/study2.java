@@ -28,6 +28,7 @@ public class study2 {
                 Nomes.add(nome);
                 IRPFTemp = study.IRPF(salario, dependentes);
                 IRPF.add(IRPFTemp);
+                console.close();
             }
         } while (!nome.equalsIgnoreCase("Parar"));
 
